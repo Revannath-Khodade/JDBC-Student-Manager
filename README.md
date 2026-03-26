@@ -1,4 +1,4 @@
-# JDBC-Student-Manager
+# JDBC-Student-Manager (JDBC)
 
 A console-based Student Management System built using Core Java and JDBC with MySQL.  
 This project demonstrates CRUD operations, transaction management, and secure database interaction using PreparedStatement.
